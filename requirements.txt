@@ -1,0 +1,6 @@
+numpy==1.19.2
+dcor==0.5.3
+torchvision==0.8.2
+torch==1.7.1
+scipy==1.5.2
+scikit_learn==1.0
